@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purushothaman06&label=Profile%20views&color=0e75b6&style=flat" alt="purushothaman06" /> </p>
 
-- 🔭 I’m currently working on [Odigan - Med Finder](https://github.com/Purushothaman06/Odigan/)
+- 🔭 I’m currently working on [Tring AI]
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Machine Learning & Aritifical Intelligence**
 
-- 💬 Ask me about **Java, DSA**
+- 💬 Ask me about **Java, Python, DSA**
 
 - 📫 How to reach me **purushothamanramesh3@gmail.com**
 
